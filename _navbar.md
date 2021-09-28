@@ -1,3 +1,3 @@
-- Translations
-  - [zh-cn](README.md)
-  - [en](en)
+-   Translations
+    -   [zh-cn](README.md)
+    -   [en](en)
