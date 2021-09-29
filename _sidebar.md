@@ -18,4 +18,6 @@
 
 -   JavaScript
     -   [JavaScript 基础](zh-cn/javascript/01.JavaScript基础.md)
-    -   [WebAPI(dom 操作)](<zh-cn/javascript/02.WebAPI(dom操作).md>)
+    -   [DOM 操作](zh-cn/javascript/02.DOM.md)
+    -   [BOM](zh-cn/javascript/03.BOM.md)
+    -   [移动端 JS](zh-cn/javascript/04.移动端JS.md)
