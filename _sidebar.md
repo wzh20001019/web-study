@@ -21,3 +21,4 @@
     -   [DOM 操作](zh-cn/javascript/02.DOM.md)
     -   [BOM](zh-cn/javascript/03.BOM.md)
     -   [移动端 JS](zh-cn/javascript/04.移动端JS.md)
+    -   [JS 高级(Es6)](<zh-cn/javascript/05.JS高级(Es6).md>)
