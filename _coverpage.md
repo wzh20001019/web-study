@@ -1,4 +1,4 @@
-# WebStudy
+# Web-Study
 
 > 前端笔记
 
