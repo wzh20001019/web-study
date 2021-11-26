@@ -49,6 +49,13 @@
 
 -   Node
 
+    -   Node
+
+        -   [node.js 知识补充](zh-cn/Node/00.node/00.node.js知识补充.md)
+        -   [npm 的使用](zh-cn/Node/00.node/01.npm的使用.md)
+        -   [内置模块](zh-cn/Node/00.node/02.内置模块.md)
+        -   [常用第三方包](zh-cn/Node/00.node/03.常用第三方包.md)
+
     -   Express
 
         -   [node.js 知识补充](zh-cn/Node/01.express/00.node.js知识补充.md)
@@ -132,7 +139,7 @@
     -   [vue 项目第三方包](zh-cn/Vue/26.vue项目第三方包.md)
     -   [解决 eslint 语法报错](zh-cn/Vue/27.解决eslint语法报错.md)
     -   [项目优化](zh-cn/Vue/28.项目优化.md)
-    -   [项目上线](zh-cn/Vue/29.项目上线.md)
+    -   [实战项目笔记](zh-cn/Vue/29.实战项目笔记.md)
 
 -   Vite
 
