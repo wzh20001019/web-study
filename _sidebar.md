@@ -53,16 +53,12 @@
 
         -   [node.js 知识补充](zh-cn/Node/00.node/00.node.js知识补充.md)
         -   [npm 的使用](zh-cn/Node/00.node/01.npm的使用.md)
-        -   [内置模块](zh-cn/Node/00.node/02.内置模块.md)
-        -   [常用第三方包](zh-cn/Node/00.node/03.常用第三方包.md)
+        -   [yarn 的使用](zh-cn/Node/00.node/02.yarn的使用.md)
+        -   [内置模块](zh-cn/Node/00.node/03.内置模块.md)
+        -   [常用第三方包](zh-cn/Node/00.node/04.常用第三方包.md)
 
     -   Express
 
-        -   [node.js 知识补充](zh-cn/Node/01.express/00.node.js知识补充.md)
-        -   [fs 对文件的操作](zh-cn/Node/01.express/01.fs对文件的操作.md)
-        -   [path 处理路径](zh-cn/Node/01.express/02.path处理路径.md)
-        -   [http 模块的使用](zh-cn/Node/01.express/03.http模块的使用.md)
-        -   [npm 的使用](zh-cn/Node/01.express/04.npm的使用.md)
         -   [中间件](zh-cn/Node/01.express/05.中间件.md)
         -   [Express 的使用](zh-cn/Node/01.express/06.express的使用.md)
         -   [cors 跨域资源共享](zh-cn/Node/01.express/07.cors跨域资源共享.md)
