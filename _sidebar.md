@@ -45,6 +45,10 @@
     -   [移动端 JS](zh-cn/javascript/04.移动端JS.md)
     -   [JS 高级(Es6)](<zh-cn/javascript/05.JS高级(Es6).md>)
 
+-   Svg
+
+    -   [svg 基础](zh-cn/svg/1.svg基础.md)
+
 -   Git
 
     -   [git 配置](zh-cn/Git/01.git配置.md)
