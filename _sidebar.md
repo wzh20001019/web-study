@@ -14,8 +14,6 @@
 
     -   其他
         -   [网站地址](zh-cn/备忘录/01.网站地址.md)
-        -   [github 创建密钥](zh-cn/备忘录/02.github创建密钥.md)
-        -   [git 分支的使用](zh-cn/备忘录/03.git分支的使用.md)
         -   [移动端视口](zh-cn/备忘录/04.移动端视口.md)
         -   [eslint 配置文件](zh-cn/备忘录/05.eslint配置文件.md)
         -   [markdown 文件转换为 html 文件](zh-cn/备忘录/06.markdown文件转换为html文件.md)
@@ -47,6 +45,12 @@
     -   [移动端 JS](zh-cn/javascript/04.移动端JS.md)
     -   [JS 高级(Es6)](<zh-cn/javascript/05.JS高级(Es6).md>)
 
+-   Git
+
+    -   [git 配置](zh-cn/Git/01.git配置.md)
+    -   [.gitignore 忽略文件](zh-cn/Git/02..gitignore忽略文件.md)
+    -   [git 操作](zh-cn/Git/03.git操作.md)
+
 -   Node
 
     -   Node
@@ -56,6 +60,7 @@
         -   [yarn 的使用](zh-cn/Node/00.node/02.yarn的使用.md)
         -   [内置模块](zh-cn/Node/00.node/03.内置模块.md)
         -   [常用第三方包](zh-cn/Node/00.node/04.常用第三方包.md)
+        -   [Socket 使用](zh-cn/Node/00.node/05.Socket使用.md)
 
     -   Express
 
