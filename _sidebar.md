@@ -34,6 +34,7 @@
     -   [选择器](zh-cn/css/03.选择器.md)
     -   [Css 样式](zh-cn/css/04.css样式.md)
     -   [Css3 新增样式](zh-cn/css/05.css3样式.md)
+    -   [自定义 css 属性(切换主题)](<zh-cn/css/06.自定义css属性(切换主题).md>)
 
 -   JavaScript
 
