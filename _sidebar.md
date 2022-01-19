@@ -144,6 +144,7 @@
   - [解决 eslint 语法报错](zh-cn/Vue/27.解决eslint语法报错.md)
   - [项目优化](zh-cn/Vue/28.项目优化.md)
   - [实战项目笔记](zh-cn/Vue/29.实战项目笔记.md)
+  - [vue.config.js 配置](zh-cn/Vue/30.vue.config.js配置.md)
 
 - Vite
 
