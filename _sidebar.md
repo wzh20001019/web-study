@@ -96,7 +96,8 @@
 
 -   Webpack
 
-    -   [webpack5 的基本使用(配置)](<zh-cn/Webpack/01.webpack5的基本使用(配置).md>)
+    -   [webpack4](zh-cn/Webpack/01.webpack4.md)
+    -   [webpack5](zh-cn/Webpack/02.webpack5.md)
 
 -   Echarts
 
