@@ -56,6 +56,7 @@
 
 -   Git
 
+    -   [git 知识补充](zh-cn/Git/00.git知识补充.md)
     -   [git 配置](zh-cn/Git/01.git配置.md)
     -   [.gitignore 忽略文件](zh-cn/Git/02..gitignore忽略文件.md)
     -   [git 操作](zh-cn/Git/03.git操作.md)
