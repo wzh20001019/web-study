@@ -49,6 +49,7 @@
     -   [BOM](zh-cn/javascript/03.BOM.md)
     -   [移动端 JS](zh-cn/javascript/04.移动端JS.md)
     -   [JS 高级(Es6)](<zh-cn/javascript/05.JS高级(Es6).md>)
+    -   [H5 新增 API](zh-cn/javascript/06.H5新增API.md)
 
 -   Svg
 
@@ -221,6 +222,14 @@
     -   [高阶组件](zh-cn/React/12.高阶组件.md)
     -   [组件的性能优化(纯组件)](<zh-cn/React/13.组件的性能优化(纯组件).md>)
     -   [React 路由(react-router-dom)](<zh-cn/React/14.React路由(react-router-dom).md>)
+    -   [React 代理](zh-cn/React/15.React代理.md)
+    -   [redux](zh-cn/React/16.redux.md)
+    -   [react-redux](zh-cn/React/17.react-redux.md)
+
+-   manifest.json
+
+    -   [HbuilderX 中 manifest.json](zh-cn/manifest/00.HbuilderX%E4%B8%ADmanifest.json.md)
+    -   [浏览器插件开发](zh-cn/manifest/1.manifest.md)
 
 -   WebGL
 
