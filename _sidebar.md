@@ -30,7 +30,7 @@
     -   [初识 html](zh-cn/html/01.初始html.md)
     -   [favicon.ico](zh-cn/html/02.favicon.md)
     -   [表格/列表/表单](zh-cn/html/03.表格、列表、表单.md)
-    -   [Html5](zh-cn/html/04.html5.md)
+    -   [Html](zh-cn/html/04.html.md)
     -   [网站 TDK 三大标签 SEO 优化](zh-cn/html/05.网站TDK三大标签SEO优化.md)
 
 -   Css
@@ -154,6 +154,7 @@
     -   [项目优化](zh-cn/Vue/28.项目优化.md)
     -   [实战项目笔记](zh-cn/Vue/29.实战项目笔记.md)
     -   [vue.config.js 配置](zh-cn/Vue/30.vue.config.js配置.md)
+    -   [vue 中的 jsx](zh-cn/Vue/31.vue中的jsx.md)
 
 -   Vite
 
