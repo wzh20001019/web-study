@@ -123,7 +123,7 @@
 -   Vue
 
     -   [AST 抽象语法树](zh-cn/Vue/00.AST抽象语法树.md)
-    -   [Vue 初体验](zh-cn/Vue/01.vue体验.md)
+    -   [Vue 初体验](zh-cn/Vue/01.vue基础知识.md)
     -   [Vue-Cli 脚手架](zh-cn/Vue/02.vue-cli脚手架.md)
     -   [Vue-Cli 的配置文件](zh-cn/Vue/03.vue-cli的配置文件.md)
     -   [App.vue 组件](zh-cn/Vue/04.App.vue组件.md)
