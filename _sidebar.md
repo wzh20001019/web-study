@@ -20,6 +20,7 @@
         -   [16 进制颜色](zh-cn/备忘录/07.16进制颜色.md)
         -   [VScode 插件](zh-cn/备忘录/08.VScode插件.md)
         -   [正则表达式](zh-cn/备忘录/09.正则表达式.md)
+        -   [GPS 坐标转换](zh-cn/备忘录/10.GPS坐标转换.md)
 
 -   Linux
 
@@ -121,6 +122,8 @@
         -   [自适应-加载动画-增量动画-动画配置](zh-cn/Echarts/02.Echarts的高级使用/03.自适应-加载动画-增量动画-动画配置.md)
         -   [图表动画配置](zh-cn/Echarts/02.Echarts的高级使用/04.图表动画配置.md)
 
+    -   [示例代码](zh-cn/Echarts/01.示例代码.md)
+
 -   Vue
 
     -   [AST 抽象语法树](zh-cn/Vue/00.AST抽象语法树.md)
@@ -155,6 +158,7 @@
     -   [实战项目笔记](zh-cn/Vue/29.实战项目笔记.md)
     -   [vue.config.js 配置](zh-cn/Vue/30.vue.config.js配置.md)
     -   [vue 中的 jsx](zh-cn/Vue/31.vue中的jsx.md)
+    -   [vue 单元测试](zh-cn/Vue/32.vue单元测试.md)
 
 -   Vite
 
