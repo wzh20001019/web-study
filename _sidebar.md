@@ -21,6 +21,7 @@
         -   [VScode 插件](zh-cn/备忘录/08.VScode插件.md)
         -   [正则表达式](zh-cn/备忘录/09.正则表达式.md)
         -   [GPS 坐标转换](zh-cn/备忘录/10.GPS坐标转换.md)
+        -   [vscode 远程连接](zh-cn/备忘录/11.vscode远程连接.md)
 
 -   Html
 
