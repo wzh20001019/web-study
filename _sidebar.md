@@ -25,6 +25,7 @@
 -   Linux
 
     -   [Linux 的学习](zh-cn/Linux/1.Linux的学习.md)
+    -   [vscode 远程连接](zh-cn/Linux/02.vscode远程连接.md)
 
 -   Html
 
