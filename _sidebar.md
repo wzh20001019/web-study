@@ -22,11 +22,6 @@
         -   [正则表达式](zh-cn/备忘录/09.正则表达式.md)
         -   [GPS 坐标转换](zh-cn/备忘录/10.GPS坐标转换.md)
 
--   Linux
-
-    -   [Linux 的学习](zh-cn/Linux/1.Linux的学习.md)
-    -   [vscode 远程连接](zh-cn/Linux/02.vscode远程连接.md)
-
 -   Html
 
     -   [初识 html](zh-cn/html/01.初始html.md)
