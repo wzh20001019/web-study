@@ -70,6 +70,7 @@
         -   [内置模块](zh-cn/Node/00.node/03.内置模块.md)
         -   [常用第三方包](zh-cn/Node/00.node/04.常用第三方包.md)
         -   [Socket 使用](zh-cn/Node/00.node/05.Socket使用.md)
+        -   [nvm node 版本管理](<zh-cn/Node/00.node/06.nvm版本管理(node).md>)
 
     -   Express
 
@@ -123,7 +124,6 @@
 
 -   Vue
 
-    -   [AST 抽象语法树](zh-cn/Vue/00.AST抽象语法树.md)
     -   [Vue 初体验](zh-cn/Vue/01.vue基础知识.md)
     -   [Vue-Cli 脚手架](zh-cn/Vue/02.vue-cli脚手架.md)
     -   [Vue-Cli 的配置文件](zh-cn/Vue/03.vue-cli的配置文件.md)
