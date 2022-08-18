@@ -204,9 +204,13 @@
 
 -   uni-app
 
-    -   [案例小技巧](zh-cn/uni-app/00.案例小技巧.md)
-    -   [配置网络请求第三方包](zh-cn/uni-app/01.配置网络请求第三方包.md)
-    -   [uni-app 组件使用](zh-cn/uni-app/02.uni-app组件使用.md)
+    -   [生命周期](zh-cn/uni-app/01.生命周期.md)
+    -   [路由配置](zh-cn/uni-app/02.路由配置.md)
+    -   [页面跳转](zh-cn/uni-app/03.页面跳转.md)
+    -   [uni-app 组件使用](zh-cn/uni-app/04.uni-app组件使用.md)
+    -   [配置网络请求第三方包](zh-cn/uni-app/05.配置网络请求第三方包.md)
+    -   [常用 API](zh-cn/uni-app/06.常用API.md)
+    -   [案例小技巧](zh-cn/uni-app/07案例小技巧.md)
 
 -   React
 
