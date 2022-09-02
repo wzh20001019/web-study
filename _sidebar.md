@@ -245,7 +245,6 @@
 
         -   [初始化项目](zh-cn/React/2-React项目笔记/01.初始化项目.md)
         -   [封装 axios](zh-cn/React/2-React项目笔记/02.封装axios.md)
-        -   [组件库使用](zh-cn/React/2-React项目笔记/03.组件库使用.md)
 
     -   React 面试题
 
