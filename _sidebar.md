@@ -159,6 +159,7 @@
         -   [实战项目笔记](zh-cn/Vue/2-Vue项目笔记/10.实战项目笔记.md)
         -   [vue.config.js 配置](zh-cn/Vue/2-Vue项目笔记/11.vue.config.js配置.md)
         -   [自定义权限指令 v-permission](zh-cn/Vue/2-Vue项目笔记/12.自定义权限指令v-permission.md)
+        -   [cordova 实现 app 内部更新](zh-cn/Vue/2-Vue项目笔记/13.cordova实现app内部更新.md)
 
     -   Vue 面试题
 
