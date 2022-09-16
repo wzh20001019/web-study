@@ -160,6 +160,7 @@
         -   [vue.config.js 配置](zh-cn/Vue/2-Vue项目笔记/11.vue.config.js配置.md)
         -   [自定义权限指令 v-permission](zh-cn/Vue/2-Vue项目笔记/12.自定义权限指令v-permission.md)
         -   [cordova 实现 app 内部更新](zh-cn/Vue/2-Vue项目笔记/13.cordova实现app内部更新.md)
+        -   [vue3+ts 找不到模块问题](zh-cn/Vue/2-Vue项目笔记/14.vue3+ts找不到模块问题.md)
 
     -   Vue 面试题
 
