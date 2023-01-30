@@ -22,6 +22,12 @@
         -   [正则表达式](zh-cn/备忘录/09.正则表达式.md)
         -   [vscode 远程连接](zh-cn/备忘录/11.vscode远程连接.md)
 
+-   性能优化
+
+    -   JavaScript
+
+        -   [循环遍历优化](zh-cn/性能优化/js/1.循环遍历优化.md)
+
 -   Html
 
     -   [初识 html](zh-cn/html/01.初始html.md)
