@@ -171,6 +171,10 @@
 
         -   [Vue 面试专题](zh-cn/Vue/3-Vue面试题/01.Vue面试专题.md)
 
+    -   Vue 报错
+
+        -   [报错](zh-cn/Vue/4-vue报错/01.md)
+
 -   Vite
 
     -   [Vite2 安装使用](zh-cn/Vite/01.vite2安装使用.md)
