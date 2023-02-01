@@ -21,12 +21,6 @@
         -   [正则表达式](zh-cn/备忘录/09.正则表达式.md)
         -   [vscode 远程连接](zh-cn/备忘录/11.vscode远程连接.md)
 
--   性能优化
-
-    -   JavaScript
-
-        <!-- -   [循环遍历优化](zh-cn/性能优化/js/1.循环遍历优化.md) -->
-
 -   Html
 
     -   [初识 html](zh-cn/html/01.初始html.md)
@@ -52,6 +46,11 @@
     -   [移动端 JS](zh-cn/javascript/04.移动端JS.md)
     -   [JS 高级(Es6)](<zh-cn/javascript/05.JS高级(Es6).md>)
     -   [H5 新增 API](zh-cn/javascript/06.H5新增API.md)
+
+-   设计模式
+
+    -   [装饰器模式](zh-cn/设计模式/01.装饰器模式.md)
+    -   [工厂模式](zh-cn/设计模式/02.工厂模式.md)
 
 -   Svg
 
@@ -281,3 +280,9 @@
         -   [精灵模型对象](zh-cn/WebGL/three/12.精灵模型对象.md)
 
     -   [第一个案例](zh-cn/WebGL/01.第一个案例.md)
+
+-   性能优化
+
+    -   JavaScript
+
+        <!-- -   [循环遍历优化](zh-cn/性能优化/js/1.循环遍历优化.md) -->
