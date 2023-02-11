@@ -258,7 +258,21 @@
         -   [初始化项目](zh-cn/React/2-React项目笔记/01.初始化项目.md)
         -   [封装 axios](zh-cn/React/2-React项目笔记/02.封装axios.md)
 
-    -   React 面试题
+-   Electron
+
+    -   [Electron 基本使用](zh-cn/Electron/01.基本使用.md)
+
+-   微前端
+
+    -   [qiankun](zh-cn/微前端/01.qiankun.md)
+
+-   性能优化
+
+    -   CSS
+
+    -   JavaScript
+
+    -   Vue
 
 -   manifest.json
 
