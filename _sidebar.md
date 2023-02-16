@@ -55,9 +55,9 @@
     -   [发布订阅模式](zh-cn/设计模式/04.发布订阅模式.md)
     -   [策略模式](zh-cn/设计模式/05.策略模式.md)
 
--   Svg
+-   算法
 
-    -   [svg 基础](zh-cn/svg/1.svg基础.md)
+    -   [排序算法](zh-cn/算法/01.排序算法.md)
 
 -   Git
 
@@ -100,6 +100,10 @@
 -   Canvas
 
     -   [canvas 基础](zh-cn/Canvas/01.canvas基础.md)
+
+-   Svg
+
+    -   [svg 基础](zh-cn/svg/1.svg基础.md)
 
 -   Webpack
 
