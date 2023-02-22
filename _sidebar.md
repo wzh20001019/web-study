@@ -47,6 +47,17 @@
     -   [JS 高级(Es6)](<zh-cn/javascript/05.JS高级(Es6).md>)
     -   [H5 新增 API](zh-cn/javascript/06.H5新增API.md)
 
+-   TypeScript
+
+    -   [安装与使用 TypeScript](zh-cn/TypeScript/01.安装与使用TypeScript.md)
+    -   [基础类型](zh-cn/TypeScript/02.基础类型.md)
+    -   [接口](zh-cn/TypeScript/03.接口.md)
+    -   [类](zh-cn/TypeScript/04.类.md)
+    -   [函数](zh-cn/TypeScript/05.函数.md)
+    -   [泛型](zh-cn/TypeScript/06.泛型.md)
+    -   [申明文件](zh-cn/TypeScript/07.申明文件.md)
+    -   [内置对象](zh-cn/TypeScript/08.内置对象.md)
+
 -   设计模式
 
     -   [装饰器模式](zh-cn/设计模式/01.装饰器模式.md)
@@ -106,11 +117,6 @@
 
     -   [svg 基础](zh-cn/svg/1.svg基础.md)
 
--   Webpack
-
-    -   [webpack4](zh-cn/Webpack/01.webpack4.md)
-    -   [webpack5](zh-cn/Webpack/02.webpack5.md)
-
 -   Echarts
 
     -   Echarts 的使用
@@ -132,6 +138,21 @@
         -   [图表动画配置](zh-cn/Echarts/02.Echarts的高级使用/04.图表动画配置.md)
 
     -   [示例代码](zh-cn/Echarts/01.示例代码.md)
+
+-   前端工程化
+
+    -   Gulp
+
+        -   [Vite2 安装使用](zh-cn/前端工程化/Gulp/01.gulp.md)
+
+    -   Webpack
+
+        -   [webpack4](zh-cn/前端工程化/Webpack/01.webpack4.md)
+        -   [webpack5](zh-cn/前端工程化/Webpack/02.webpack5.md)
+
+    -   Vite
+
+        -   [Vite2 安装使用](zh-cn/前端工程化/Vite/01.vite.md)
 
 -   Vue
 
@@ -180,21 +201,6 @@
     -   Vue 报错
 
         -   [报错](zh-cn/Vue/4-vue报错/01.md)
-
--   Vite
-
-    -   [Vite2 安装使用](zh-cn/Vite/01.vite2安装使用.md)
-
--   TypeScript
-
-    -   [安装与使用 TypeScript](zh-cn/TypeScript/01.安装与使用TypeScript.md)
-    -   [基础类型](zh-cn/TypeScript/02.基础类型.md)
-    -   [接口](zh-cn/TypeScript/03.接口.md)
-    -   [类](zh-cn/TypeScript/04.类.md)
-    -   [函数](zh-cn/TypeScript/05.函数.md)
-    -   [泛型](zh-cn/TypeScript/06.泛型.md)
-    -   [申明文件](zh-cn/TypeScript/07.申明文件.md)
-    -   [内置对象](zh-cn/TypeScript/08.内置对象.md)
 
 -   微信小程序
 
