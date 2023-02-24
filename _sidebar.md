@@ -89,6 +89,7 @@
         -   [常用第三方包](zh-cn/Node/00.node/04.常用第三方包.md)
         -   [Socket 使用](zh-cn/Node/00.node/05.Socket使用.md)
         -   [nvm node 版本管理](<zh-cn/Node/00.node/06.nvm版本管理(node).md>)
+        -   [V8 内存分配](zh-cn/Node/00.node/07.V8内存分配.md)
 
     -   Express
 
@@ -168,6 +169,7 @@
         -   [Vue-Router 路由](zh-cn/Vue/1-Vue基础/08.vue-Router路由.md)
         -   [keep-alive 与 Vue-Router 的结合使用](zh-cn/Vue/1-Vue基础/09.keep-alive与vue-router的结合使用.md)
         -   [Vuex 状态管理](zh-cn/Vue/1-Vue基础/10.Vuex状态管理.md)
+        -   [pinia 状态管理](zh-cn/Vue/1-Vue基础/10.pinia状态管理.md)
         -   [Compositions 常用 API](zh-cn/Vue/1-Vue基础/11.Compositions常用API.md)
         -   [Compositions API 生命周期](zh-cn/Vue/1-Vue基础/12.CompositionsAPI生命周期.md)
         -   [组合式 API 中的 provide 和 inject 的使用](zh-cn/Vue/1-Vue基础/13.组合式API中的provide和inject的使用.md)
@@ -284,11 +286,6 @@
     -   JavaScript
 
     -   Vue
-
--   manifest.json
-
-    -   [HbuilderX 中 manifest.json](zh-cn/manifest/00.HbuilderX%E4%B8%ADmanifest.json.md)
-    -   [浏览器插件开发](zh-cn/manifest/1.manifest.md)
 
 -   WebGL
 
