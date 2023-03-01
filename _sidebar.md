@@ -151,9 +151,13 @@
         -   [webpack4](zh-cn/前端工程化/Webpack/01.webpack4.md)
         -   [webpack5](zh-cn/前端工程化/Webpack/02.webpack5.md)
 
+    -   Rollup
+
+        -   [Rollup](zh-cn/前端工程化/Rollup/01.rollup.md)
+
     -   Vite
 
-        -   [Vite2 安装使用](zh-cn/前端工程化/Vite/01.vite.md)
+        -   [Vite](zh-cn/前端工程化/Vite/01.vite.md)
 
 -   Vue
 
