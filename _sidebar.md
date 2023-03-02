@@ -252,6 +252,7 @@
 
     -   React 基础
 
+        -   [基础知识](zh-cn/React/1-React基础/00.基础知识.md)
         -   [react 脚手架的使用](zh-cn/React/1-React基础/01.react脚手架的使用.md)
         -   [JSX](zh-cn/React/1-React基础/02.JSX.md)
         -   [react 创建组件](zh-cn/React/1-React基础/03.react创建组件.md)
