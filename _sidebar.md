@@ -113,6 +113,8 @@
         -   [中间件](zh-cn/Nest/1-基础/03.中间件.md)
         -   [过滤器 异常处理](zh-cn/Nest/1-基础/04.异常处理.md)
         -   [管道-转换](zh-cn/Nest/1-基础/05.管道-转换.md)
+        -   [权限守卫](zh-cn/Nest/1-基础/06.权限守卫.md)
+        -   [Swagger 的使用](zh-cn/Nest/1-基础/Swagger的使用.md)
 
 -   Canvas
 
@@ -237,13 +239,32 @@
 
 -   uni-app
 
-    -   [生命周期](zh-cn/uni-app/01.生命周期.md)
-    -   [路由配置](zh-cn/uni-app/02.路由配置.md)
-    -   [页面跳转](zh-cn/uni-app/03.页面跳转.md)
-    -   [uni-app 组件使用](zh-cn/uni-app/04.uni-app组件使用.md)
-    -   [配置网络请求第三方包](zh-cn/uni-app/05.配置网络请求第三方包.md)
-    -   [常用 API](zh-cn/uni-app/06.常用API.md)
-    -   [案例小技巧](zh-cn/uni-app/07案例小技巧.md)
+    -   基础
+
+        -   [生命周期](zh-cn/uni-app/1-基础/01.生命周期.md)
+        -   [路由配置](zh-cn/uni-app/1-基础/02.路由配置.md)
+        -   [页面跳转](zh-cn/uni-app/1-基础/03.页面跳转.md)
+        -   [uni-app 组件使用](zh-cn/uni-app/1-基础/04.uni-app组件使用.md)
+        -   [配置网络请求第三方包](zh-cn/uni-app/1-基础/05.配置网络请求第三方包.md)
+        -   [组件通信](zh-cn/uni-app/1-基础/06.组件通信.md)
+        -   [界面设置-API](zh-cn/uni-app/1-基础/07.界面设置-API.md)
+        -   [获取设备信息-API](zh-cn/uni-app/1-基础/08.获取设备信息-API.md)
+        -   [媒体-API](zh-cn/uni-app/1-基础/09.媒体-API.md)
+        -   [app 获取设备信息代码](zh-cn/uni-app/1-基础/10.app获取设备信息代码.md)
+        -   [WebSocket 服务](zh-cn/uni-app/1-基础/11.WebSocket服务.md)
+        -   [数据存储](zh-cn/uni-app/1-基础/12.数据存储.md)
+        -   [广告视频](zh-cn/uni-app/1-基础/13.广告视频.md)
+        -   [登录 | 第三方登录](zh-cn/uni-app/1-基础/14.登录.md)
+        -   [分享到其他平台](zh-cn/uni-app/1-基础/15.分享.md)
+        -   [支付](zh-cn/uni-app/1-基础/16.支付.md)
+        -   [消息推送](zh-cn/uni-app/1-基础/17.消息推送.md)
+
+    -   项目
+        -   [编译到微信小程序](zh-cn/uni-app/2-项目/01.编译到微信小程序.md)
+        -   [配置 tabBar](zh-cn/uni-app/2-项目/02.配置tabBar.md)
+        -   [配置分包](zh-cn/uni-app/2-项目/03.配置分包.md)
+        -   [ifdef 判断不同平台](zh-cn/uni-app/2-项目/04.ifdef判断不同平台.md)
+        -   [uni-app 配置极光推送](zh-cn/uni-app/2-项目/05.uni-app配置极光推送.md)
 
 -   React
 
