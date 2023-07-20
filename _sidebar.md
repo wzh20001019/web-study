@@ -125,6 +125,7 @@
 -   Svg
 
     -   [svg 基础](zh-cn/svg/1.svg基础.md)
+    -   [svg动画效果](<zh-cn/svg/2. svg动画效果.md>)
 
 -   Echarts
 
@@ -304,6 +305,7 @@
 -   微前端
 
     -   [qiankun](zh-cn/微前端/01.qiankun.md)
+    -   [pnpm + monorepo架构](<zh-cn/微前端/02.pnpm+monorepo 架构.md>)
 
 -   性能优化
 
@@ -335,6 +337,12 @@
         -   [第一个案例]("zh-cn/WebGL/cesium/1.cesium的使用.md")
 
     -   [第一个案例](zh-cn/WebGL/01.第一个案例.md)
+
+-   [问题记录](zh-cn/ProblemRecord/01.md)
+
+-   NeWork
+
+    -   [xss](zh-cn/NeWork/01.xss.md)
 
 -   拓展
 
