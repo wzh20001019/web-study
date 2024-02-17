@@ -2,7 +2,7 @@
 
 > 前端笔记
 
--   小文总结的前端重点知识点
+-   前端知识点总结(wzh)
 
 [GitHub](https://github.com/wzh20001019/web-study)
 [Get Started](README.md)
